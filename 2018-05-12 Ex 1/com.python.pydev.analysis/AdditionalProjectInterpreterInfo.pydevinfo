@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\NCS_JavaAnd_1\2018JAVA\.metadata\.plugins\org.eclipse.core.resources\.projects\2018-05-12 Ex 1\com.python.pydev.analysis\v2_indexcache
+beautifulSoiupEx02|1526093520615889000|C:\Python_Project\beautifulSoiupEx02.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Python_Project\beautifulSoiupEx02.py
+2=beautifulSoiupEx02
+-- END DICTIONARY
+-- START TREE 1
+4
+htm|1|html!1^11#1*19@
+sou|1|soup!1^13#1*19@
+tag|1|tag!1^15#1*19@
+url|2|url_header!1^27#1*19@url!1^9#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
